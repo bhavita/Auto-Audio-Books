@@ -18,7 +18,7 @@ Steps
 1. Research Paper - [Scientific Research Paper](https://github.com/bhavita/Auto-Audio-Books/blob/master/demo/Scientific%20Method%20Research.pdf)
  Generated audiobook -  [Generated Audio](https://github.com/bhavita/Auto-Audio-Books/blob/master/demo/Scientific%20Method%20Research.mp3?raw=true) 
 3. Research Paper - [Research Paper](https://github.com/bhavita/Auto-Audio-Books/blob/master/demo/research-paper.pdf) 
-Generated audiobook - [Generated Audio](https://raw.githubusercontent.com/bhavita/Auto-Audio-Books/master/demo/research-paper.mp3?raw=true) 
+Generated audiobook - [Generated Audio](https://github.com/bhavita/Auto-Audio-Books/blob/master/demo/research-paper.mp3?raw=true) 
 
 ## License
  

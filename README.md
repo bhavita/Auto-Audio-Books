@@ -3,7 +3,7 @@ Convert pdf to audiobooks 📚
 
 
 **Inspiration** : 
-I am a nerd 🤓. I like reading research papers, articles and books. I also travel alot often from my work city to my hometown. During which I tend to feel unwell on account of motion sickness, if I read while travelling. Have been looking for a tool but either some of them had paid implementation or restrictions. 
+I am a nerd 🤓. I like reading research papers, articles and books. I also travel alot often from my work city to my hometown. During which I tend to feel unwell on account of motion sickness, if I read while travelling. Have been looking for a tool but either some of them had paid implementation or restrictions. Also audiobooks are pretty cool to multitask on and keep them running in the background 🖖🏻
 
 So inspiration was to use existing tech available and with ~20 lines of code, build a simple, pdf -> audiobook generator. 🤞🏻
 

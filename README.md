@@ -23,8 +23,6 @@ Steps
 3. Research Paper - [Research Paper](https://github.com/bhavita/Auto-Audio-Books/blob/master/demo/research-paper.pdf) 
 Generated audiobook - [Generated Audio](https://raw.githubusercontent.com/bhavita/Auto-Audio-Books/master/demo/research-paper.mp3) 
 
-<audio controls="controls">  <source type="audio/mp3" src="https://raw.githubusercontent.com/bhavita/Auto-Audio-Books/master/demo/research-paper.mp3"></source>  <p>Your browser does not support the audio element.</p>  </audio>
-
 ## License
  
 The MIT License (MIT)
